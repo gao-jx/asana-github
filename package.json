@@ -1,0 +1,12 @@
+{
+  "name": "asana-github",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "asana": "^0.15.0",
+    "github": "^12.1.0",
+    "micro": "latest",
+    "node-github": "^0.0.3"
+  }
+}
